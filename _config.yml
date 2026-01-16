@@ -1,5 +1,9 @@
+title: "Wisdom Kelechi Ezeofor"
+description: "Cybersecurity portfolio"
+baseurl: ""   # no trailing slash for user site
+url: "https://kelecie.github.io"
+remote_theme: pages-themes/cayman
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
 
-theme: jekyll-theme-cayman
-title: Wisdom Ezeofor
-# description: "Short site description"
-# url: "https://kelecie.github.io"   # optional
